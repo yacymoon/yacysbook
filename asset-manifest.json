@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yacysbook/static/css/main.adecbc76.css",
+    "main.js": "/yacysbook/static/js/main.de20ed3e.js",
+    "index.html": "/yacysbook/index.html",
+    "main.adecbc76.css.map": "/yacysbook/static/css/main.adecbc76.css.map",
+    "main.de20ed3e.js.map": "/yacysbook/static/js/main.de20ed3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adecbc76.css",
+    "static/js/main.de20ed3e.js"
+  ]
+}
