@@ -25,7 +25,6 @@ export const RecipePopUp = ({ children, recipeInfo }) => {
     setFilter(updatedFilter);
   };
 
-
   return (
     <>
       <div onClick={() => setOpen(true)}>{children}</div>
@@ -69,7 +68,8 @@ export const RecipePopUp = ({ children, recipeInfo }) => {
                         <p className='pb-6 pt-5 text-green font-semibold font-base text-5xl border-b border-b-gray-500'>{recipeInfo.title}</p>
                         <div className='relative'>
                           <p className='bg-green rounded-full text-white text-sm absolute left-2 top-3 w-[100px] h-6 flex justify-center items-center'>Difficulty: {recipeInfo.difficulty}</p>
-                          <img src={recipeInfo.src}
+                          <img alt={recipeInfo.title}
+                              src={recipeInfo.src}
                               className='w-full h-64 sm:h-52 object-cover my-6 rounded-xl'
                           />
                         </div>
@@ -96,7 +96,7 @@ export const RecipePopUp = ({ children, recipeInfo }) => {
                             </ul>
                           </div>
                           <p className='font-alt font-medium text-gray-600 text-lg pt-1'>- {recipeInfo.recipe}</p>
-                          <a href={recipeInfo.link} className='text-green font-light pt-2'>
+                          <a href={recipeInfo.link} target="_blank" rel="noopener noreferrer" className='text-green font-light pt-2'>
                             Click here to see the recipe video
                           </a>
                         </div>

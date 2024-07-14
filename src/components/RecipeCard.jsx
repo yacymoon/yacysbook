@@ -1,6 +1,6 @@
-import { React, useState} from 'react';
+import { React} from 'react';
 
-export const RecipeCard = ({ src, title, ingredients, category }) => {
+export const RecipeCard = ({ src, title, ingredients, category, difficulty }) => {
 
     return (
         <div className='relative bg-white w-40 lg:w-44 p-2 cursor-pointer hover:scale-110 hover:transition-all hover:duration-150 shadow-sm'>
@@ -8,11 +8,14 @@ export const RecipeCard = ({ src, title, ingredients, category }) => {
                 {category}
             </p>
             <img
+                alt={title}
                 src={src}
                 className='w-40 h-40 lg:w-40 lg:h-40 object-cover mb-2'
             />
             <div className='flex flex-col gap-y-0.5'>
-                <p className='font-alt font-medium text-gray-600 text-xs'>Difficulty:</p>
+                <p className='font-alt font-medium text-gray-600 text-xs'>Difficulty:
+                    <span className='text-green'> {difficulty}</span>
+                </p>
                 <h3 className='font-base text-lg text-green font-semibold'>
                     {title.length > 17 ?
                         title.substring(0, 15) + '...' : title}

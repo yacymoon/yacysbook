@@ -43,6 +43,7 @@ export const Recipes = () => {
                     title={recipe.title}
                     ingredients={recipe.ingredients}
                     category={recipe.category}
+                    difficulty={recipe.difficulty}
                   />
                 </div>
               </RecipePopUp>

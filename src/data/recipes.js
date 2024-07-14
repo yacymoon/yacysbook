@@ -5,11 +5,11 @@ export const recipes = [
     category: "Sweet",
     meal: "Dessert",
     difficulty: "1/5",
-    keyWords: "Chocolate, Flour, Cookie, Milk",
+    keyWords: "Chocolate, Flour, Biscuit, Milk",
     ingredients: "Nutella, Flour, Milk",
     src: "https://images.unsplash.com/photo-1619149651177-b09092806f1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
     recipe:
-      "Mix the nuttela, flour and milk until it is consistent. Make balls with the dough and make a hole in the middle to add some nutella. Microwave for 60 seconds.",
+      "Mix the Nutella, flour, and milk until consistent. Form balls with the dough and create a hole in the middle to add some Nutella. Microwave for 60 seconds.",
     link: "https://www.instagram.com/p/CLFWmTwnLW4/?next=%2F&img_index=1"
   },
   {
@@ -18,7 +18,7 @@ export const recipes = [
     category: "Savory",
     meal: "Lunch",
     difficulty: "1/5",
-    keyWords: "Lettuce, Avocado, Chicken Breast, Carrot",
+    keyWords: "Lettuce, Avocado, Chicken Breast, Carrot, Onion",
     ingredients:
       "Onion, Lettuce, Garlic, Carrot, Olive Oil, Any Dressing, Salt and Pepper, Avocado, Chicken Breast",
     src: "https://images.unsplash.com/photo-1623428187425-873f16e10554?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1064&q=80",
@@ -32,7 +32,7 @@ export const recipes = [
     category: "Sweet",
     meal: "Dessert",
     difficulty: "1/5",
-    keyWords: "Sour cream, Condensed Milk, Chocolate",
+    keyWords: "Sour cream, Condensed Milk, Chocolate, Milk",
     ingredients: "Sour cream, Condensed Milk, Milk, Chocolate powder, Non-flavored jelly",
     src: "https://www.guiadasemana.com.br/contentFiles/image/opt_w960h960/2021/06/FEA/67335_shutterstock-268585745.jpg",
     recipe:
@@ -46,25 +46,11 @@ export const recipes = [
     meal: "Dessert",
     difficulty: "1/5",
     keyWords: "Milk Powder, Condensed Milk, Biscuit",
-    ingredients: "Condensed milk, Milk powder, Margarine, Oreo",
+    ingredients: "Condensed Milk, Milk Powder, Margarine, Oreo",
     src: "https://i0.wp.com/www.eucozinhando.com.br/wp-content/uploads/2020/08/Brigadeiro-de-Oreo-com-Ninho.jpg?fit=600%2C600&ssl=1",
     recipe:
       "In a pan mix 1 can of condensed milk, 3 spoons of milk powder, 1 spoon of margarine until it's consistent. Add pieces of oreo cookies, make little balls and cover it with milk powder.",
     link: "https://www.instagram.com/p/CXO9JHLPfhN/?next=%2F"
-  },
-  {
-    id: "0p0x5",
-    title: "Cheese and Ham Salgado/Pie",
-    category: "Savory",
-    meal: "Snack",
-    difficulty: "3/5",
-    keyWords: "Cheese, Ham, Flour",
-    ingredients:
-      "Water, Baking Powder, Sugar, Flour, Salt, Oil, Ham, Cheese, Oregano",
-    src: "https://cooknenjoy.com/wp-content/uploads/2021/05/Cigarrete-02.jpg",
-    recipe:
-      "Mix 200ml of warm water, 1/2 package of baking powder, 1 spoon of sugar and let it rest for 10 minutes. Add 2 1/2 cup of flour, 1 spoon of salt, 40ml of oil, knead the dough and let it rest until it double the size. Open the dough and add the oregano, ham and grated cheese at the end of it. Roll the dough and cut the pieces, brush egg yolk on top and bake for 30min at 180 degrees.",
-    link: "https://www.instagram.com/p/CXJSN0mg0nL/?next=%2F"
   },
   {
     id: "0p0x6",
@@ -85,7 +71,7 @@ export const recipes = [
     title: "Mayo Dressing",
     category: "Savory",
     difficulty: "1/5",
-    keyWords: "Egg, Sour Cream",
+    keyWords: "Egg, Sour Cream, Salt, Parsley",
     ingredients: "Egg, Sour Cream, Salt, Parsley",
     src: "https://www.estadao.com.br/resizer/b5fgzWGBs-0hPdOhSPQi8wBzqCM=/720x503/filters:format(jpg):quality(80):focal(1980x3080:1990x3090)/cloudfront-us-east-1.images.arcpublishing.com/estadao/ERSGKUMKUJDA5DOUMJIUKUP6MI.jpg",
     recipe:
@@ -152,7 +138,7 @@ export const recipes = [
     category: "Savory",
     meal: "Snack",
     difficulty: "3/5",
-    keyWords: "Egg, Flour, Milk, Cheese, Sour Cream, Sour Cream",
+    keyWords: "Egg, Flour, Milk, Cheese, Sour Cream",
     ingredients: "1 egg, 1/4 cup oil, 3 spoons of sugar, 1/2 spoon of salt, 5g of dry yeast (half a packet), 3 1/2 cup flour, 1 cup warm or ambient milk",
     src: "https://t2.uc.ltmcdn.com/pt/posts/2/0/5/como_fazer_esfiha_aberta_do_habib_s_27502_orig.jpg",
     recipe:
@@ -244,11 +230,11 @@ export const recipes = [
     category: "Sweet",
     meal: "Dessert",
     difficulty: "3/5",
-    keyWords: "Flour, Greek Yoghurt, Strawberry, Sour Cream",
-    ingredients: "Flour, Greek Yoghurt, Strawberry, Sugar, Sour Cream",
+    keyWords: "Flour, Greek Yogurt, Strawberry, Sour Cream",
+    ingredients: "Flour, Greek Yogurt, Strawberry, Sugar, Sour Cream",
     src: "https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/desktopimages/16065.jpg?ext=.jpg",
     recipe:
-      "In a container mix 110g of flour, 130g of greek yoghurt. On the microwave put 40g of diced strawberries and 15g of sugar, take out every 30sec and mix it until it's is melted, add sour cream and mix it. Roll dough into rectangle shape, spread the filling and roll. Cut it into pieces and bake at 18deg for 20min.",
+      "In a container mix 110g of flour, 130g of greek Yogurt. On the microwave put 40g of diced strawberries and 15g of sugar, take out every 30sec and mix it until it's is melted, add sour cream and mix it. Roll dough into rectangle shape, spread the filling and roll. Cut it into pieces and bake at 18deg for 20min.",
     link: "https://www.instagram.com/p/Cd5UOuIjOS4/?next=%2F"
   },
   {
@@ -257,7 +243,7 @@ export const recipes = [
     category: "Savory",
     meal: "Snack",
     difficulty: "3/5",
-    keyWords: "Chicken, Cheese, Mayo, Lettuce, Corn Rice, Cornflakes",
+    keyWords: "Chicken, Cheese, Mayo, Lettuce, Corn Rice, Cornflakes, Paprika",
     ingredients: "200g Chicken Breast, 2 Cheese Corn Thins/Rice Cakes, 20g Egg Whites, 1 Aldi Brioche Bun, Lettuce, 20g Light Mayo, Garlic Powder, Garlic Salt, Smoked Paprika, Salt, Pepper",
     src: "https://i.pinimg.com/1200x/6c/42/92/6c429273ffc37e3ab0d191495004701b.jpg",
     recipe:
@@ -281,7 +267,6 @@ export const recipes = [
     id: "0p0x24",
     title: "Chocolate Yogurt",
     category: "Sweet",
-    meal: "Dessert",
     meal: "Dessert",
     difficulty: "1/5",
     keyWords: "Chocolate, Milk, Egg, Vanilla Essence, Condensed Milk",
@@ -310,11 +295,11 @@ export const recipes = [
     category: "Savory",
     meal: "Snack",
     difficulty: "3/5",
-    keyWords: "Flour, Greek Yoghurt, Cheese, Tomato Sauce, Pepperoni",
-    ingredients: "100g Plain Flour, 120g Low Fat Greek Yoghurt, 3 Cheese Strings, 60g Tomato Sauce, 50g Light Mozzarella, 40g Chorizo ​​Salami, Oregano, All Purpose Seasoning",
+    keyWords: "Flour, Greek Yogurt, Cheese, Tomato Sauce, Pepperoni",
+    ingredients: "100g Plain Flour, 120g Low Fat Greek Yogurt, 3 Cheese Strings, 60g Tomato Sauce, 50g Light Mozzarella, 40g Chorizo ​​Salami, Oregano, All Purpose Seasoning",
     src: "https://www.italianstylecooking.net/wp-content/uploads/2022/01/Pizza-Salami-1200x900.jpg",
     recipe:
-      "Mix the flour and greek yoghurt until it forms a dough, then roll into desired shape and size. Place the cheese strings on the corners of dough and fold the edges tightly. Cover the center of the dough with tomato sauce, add mozzarella and salami. Spray oil on the edges and add oregano or any seasoning on the top and bake it for 25-30min at 200 degrees",
+      "Mix the flour and greek Yogurt until it forms a dough, then roll into desired shape and size. Place the cheese strings on the corners of dough and fold the edges tightly. Cover the center of the dough with tomato sauce, add mozzarella and salami. Spray oil on the edges and add oregano or any seasoning on the top and bake it for 25-30min at 200 degrees",
     link: "https://www.instagram.com/p/CgZA5ByDW78/?next=%2F"
   },
   {
@@ -336,7 +321,7 @@ export const recipes = [
     category: "Savory",
     meal: "Lunch",
     difficulty: "3/5",
-    keyWords: "Rice, Shrimp, Cheese, Tomato",
+    keyWords: "Rice, Shrimp, Cheese, Tomato, Paprika",
     ingredients: "butter, 3 tomatoes, 1 large onion, 3 cream, Champignons, 200g mozzarella, 200g parmesan, 400g shrimp, rice, seasoning to taste",
     src: "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2020/12/28/camarao-ao-creme-de-leite-768x512.jpg",
     recipe:
@@ -346,7 +331,7 @@ export const recipes = [
   {
     id: "0p0x29",
     title: "Fruity Drink",
-    category: "Sweet",
+    category: "Drink",
     meal: "Drinks",
     difficulty: "1/5",
     keyWords: "Kiwi, ​​Strawberry, Condensed Milk, Alcohol",
@@ -466,7 +451,7 @@ export const recipes = [
     category: "Savory",
     meal: "Snack",
     difficulty: "3/5",
-    keyWords: "Chicken, Soy Sauce, Cucumber, Rice",
+    keyWords: "Chicken, Soy Sauce, Cucumber, Rice, Paprika",
     ingredients: "700g Cubed Chicken Breast, 2 tsp Garlic Powder, 1.5 tsp Black Pepper, 2 tap Paprika, 1 tsp Salt, 30g Cornflour, 50ml Light Soy sauce mixed with 50ml Water, 25g Honey, 40g Gochujang Paste (you can substitute this for Tomato paste mixed with sriracha), Sliced Cucumber, 20ml Light Soy Sauce, 10ml Rice Vinegar, 1 tsp Garlic Powder, 1 tsp Sesame Seeds",
     src: "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/5c1aa1f3c445fa31ee54faf2-67376b63.jpg",
     recipe:
@@ -492,7 +477,7 @@ export const recipes = [
     category: "Savory",
     meal: "Lunch",
     difficulty: "3/5",
-    keyWords: "Meat, Soy Sauce, Pepper, Cornflour, Noodles",
+    keyWords: "Meat, Soy Sauce, Pepper, Cornflour, Spaghetti",
     ingredients: "700g Lean Beef Steak cut into thin strips, 70ml Soy Sauce, 2 tsp Garlic Powder, 2 tsp Black Pepper, 1/2 tsp Baking Soda, 2 tsp Olive Oil, 20g Cornflour, 220g Uncooked Noodles, Green Onion/Scallion, 5 Garlic Cloves Chopped, 1/2 Red Onion Sliced, 50g Oyster Sauce, 1/2 cup Water, 10g Cornflour Mixed with 15ml water, Garnish with Chilli Flakes & Sesame Seeds",
     src: "https://www.marionskitchen.com/wp-content/uploads/2021/08/20201111_Mongolian-Beef-Noodles_Reshoot-4.jpg",
     recipe:
@@ -505,7 +490,7 @@ export const recipes = [
     category: "Savory",
     meal: "Snack",
     difficulty: "2/5",
-    keyWords: "Chicken, Cornflakes, Greek Yogurt",
+    keyWords: "Chicken, Cornflakes, Greek Yogurt, Paprika",
     ingredients: "450g ground chicken breast, 1 egg, 1 cup cornflakes, seasoning (onion powder, garlic powder, paprika, salt and pepper and optional cayenne for spicy), 1/2 cup greek yogurt, Siracha, hot honey (optional)",
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ZbjIHknLvP1ME14JsZbp4_WRspb7BxRbyw&usqp=CAU",
     recipe:
@@ -518,7 +503,7 @@ export const recipes = [
     category: "Savory",
     meal: "Lunch",
     difficulty: "3/5",
-    keyWords: "Chicken, Cornflour, Greek Yogurt, Soy Sauce, Pepper, Sesame Oil",
+    keyWords: "Chicken, Cornflour, Greek Yogurt, Soy Sauce, Pepper, Sesame Oil, Paprika",
     ingredients: "450g chicken, 1/3 cup corn flour, 1 tsp baking soda, seasoning (onion powder, garlic powder, paprika, salt and pepper), 1/4 cup Greek yogurt (sauce), 1/4 cup soy sauce, 2 tbsp rice vinegar, 2-3 tbsp honey, 2-3 tbsp sf ketchup, 1 Tbsp corn starch mixed with 1/2 cup water, 2 garlic cloves, 1 tsp sesame oil, salt and pepper to taste",
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNFocbQB_TnxVsGYxY1731OixEd_i1gGPtW2yKC3TzMdVAgtvgYH_MPpDeHrZC7N2XTU&usqp=CAU",
     recipe:
@@ -571,7 +556,7 @@ export const recipes = [
     category: "Sweet",
     meal: "Dessert",
     difficulty: "1/5",
-    keyWords: "Oat, Cocoa Powder, Milk, Chocolate",
+    keyWords: "Oat, Cocoa Powder, Milk, Chocolate, Whey",
     ingredients: "30g oat flour, 2 dessert spoons of cocoa powder, 1 scoop of whey (flavor of your choice), 70 ml of milk, 5 drops of vanilla essence, baking powder, chocolate",
     src: "https://chocolatecoveredkatie.com/wp-content/uploads/2011/11/The-Best-Chocolate-Mug-Cake-Recipe.jpg",
     recipe:
@@ -580,7 +565,7 @@ export const recipes = [
   },
   {
     id: "0p0x47",
-    title: "Broccoli Rice",
+    title: "Broccoli Cheesy Rice",
     category: "Savory",
     meal: "Lunch",
     difficulty: "3/5",
@@ -612,7 +597,7 @@ export const recipes = [
     difficulty: "3/5",
     keyWords: "Cucumber, Sour Cream, Salmon, Avocado",
     ingredients: "Cucumber, Sour Cream, Salmon, Avocado",
-    src: "https://www.lowcarbingasian.com/wp-content/uploads/2018/12/Cucumber-Wrapped-Cream-Cheese-Sushi-Roll-LowCarbingAsian-Cover-1.jpg",
+    src: "https://static1.squarespace.com/static/568e8fe6b204d5cbecd5c77e/56915062d82d5eff6cba017c/63fe4f8e97ec715482886eec/1692632214565/Cucumber+Sushi-0906-3.jpg?format=1500w",
     recipe:
       "Slice the cucumber into thin strips. Overlap the slices next to each other until they form a rectangle. On top of the strips add sour cream, salmon and avocado. Roll up and cut into pieces.",
     link: "https://www.instagram.com/p/Cte8BZggad8/?next=%2F"
@@ -636,7 +621,7 @@ export const recipes = [
     category: "Savory",
     meal: "Snack",
     difficulty: "1/5",
-    keyWords: "Bread, Cheese, Pepperoni, Mayo",
+    keyWords: "Bread, Cheese, Pepperoni, Mayo, Pizza Sauce",
     ingredients: "Bread, pizza sauce, cheese, pepperoni, mayo",
     src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLY7oC7EV5HgB16uNBVORcu3ZNbKJdRjspupH_qAtnzRgXygAKlVMCUMhdvdq-vVYGy74&usqp=CAU",
     recipe:
@@ -649,7 +634,7 @@ export const recipes = [
     category: "Savory",
     meal: "Lunch",
     difficulty: "3/5",
-    keyWords: "Chicken, Soy Sauce, Corn Flour",
+    keyWords: "Chicken, Soy Sauce, Corn Flour, Cornstarch",
     ingredients: "3 chicken thighs (marinate with soy sauce, salt & pepper), Cornstarch, Oil (for frying), 3 garlic cloves, 3 tbsp soy sauce, 1 tsp mirin, 3 tbsp sugar, Salt & pepper, Chicken powder",
     src: "https://ohsweetbasil.com/wp-content/uploads/easy-teriyaki-chicken-recipe-2-scaled.jpg",
     recipe:
@@ -688,7 +673,7 @@ export const recipes = [
     category: "Sweet",
     meal: "Dessert",
     difficulty: "2/5",
-    keyWords: "Chocolate, Grape,  Powdered Milk",
+    keyWords: "Chocolate, Grape,  Powdered Milk, Whey",
     ingredients: "1 scoop of white chocolate whey, 3 tablespoons of powdered milk, grape, chocolate",
     src: "https://assets.delirec.com/images%2FhvFIAtEJKyceZFkQooFdTLSa9702%2Frecipe%2Fe0ec1fce-4ef1-4e0c-90d6-50a1e08e3e8a-Bombom-de-Uva-gallery-0",
     recipe:
@@ -765,7 +750,6 @@ export const recipes = [
     title: "Salmon Pasta",
     category: "Savory",
     meal: "Lunch",
-    meal: "Dessert",
     difficulty: "2/5",
     keyWords: "Cheese, Tomato, Spaghetti, Salmon",
     ingredients: "feta cheese, cherry tomatoes, spinach, salmon, salt, pepper, pasta",
@@ -806,7 +790,7 @@ export const recipes = [
     category: "Savory",
     meal: "Lunch",
     difficulty: "1/5",
-    keyWords: "Chicken, Pepper, Mayo, Honey, Mustard",
+    keyWords: "Chicken, Pepper, Mayo, Honey, Mustard, Paprika",
     ingredients: "500g chicken, 1/2 tablespoon salt, 1/2 tablespoon black pepper, 3 tablespoons mayonnaise, 1 tablespoon honey, 2 tablespoons mustard, 1 teaspoon smoked paprika, 1 lemon juice",
     src: "https://img.bestrecipes.com.au/-mppEd49/br/2021/07/baked_honey_mustard_chicken_final-963498-1.jpg",
     recipe:
@@ -834,7 +818,7 @@ export const recipes = [
     difficulty: "1/5",
     keyWords: "Chicken, Soy Sauce, Paprika, Pepper",
     ingredients: "500g of chicken, 50g of soy sauce, 1 teaspoon of grated ginger, 1 clove of grated garlic, 1 tablespoon of ketchup, 1 tablespoon of vinegar, 1 tablespoon of spicy paprika, salt and black pepper",
-    src: "https://sudachirecipes.com/wp-content/uploads/2020/02/tonkatsu-thumbnail-550x550.jpg",
+    src: "https://www.cookerru.com/wp-content/uploads/2022/03/chicken-katsu-5-web-scaled.jpg",
     recipe:
       "Mix all the ingredients for the sauce and add it on the grilled",
     link: "https://www.instagram.com/p/CxEP7n6xdRj/?next=%2F"
@@ -845,7 +829,7 @@ export const recipes = [
     category: "Sweet",
     meal: "Dessert",
     difficulty: "1/5",
-    keyWords: "Greek Yogurt, Chocolate",
+    keyWords: "Greek Yogurt, Chocolate, Whey",
     ingredients: "200g natural yogurt, 30g chocolate whey protein or 20g powdered milk + 10g cocoa, 30g melted chocolate, vanilla essence",
     src: "https://livesimply.me/wp-content/uploads/2023/01/homemade-chocolate-yogurt-protein-DSC04253.jpg",
     recipe:
@@ -884,7 +868,7 @@ export const recipes = [
     category: "Savory",
     meal: "Lunch",
     difficulty: "1/5",
-    keyWords: "Noodles, Peper, Egg, Meat, Mayo",
+    keyWords: "Spaghetti, Peper, Egg, Meat, Mayo, Paprika",
     ingredients: "ramen, peper, egg, beef, mayo, green onions",
     src: "https://www.wenthere8this.com/wp-content/uploads/2021/01/spicy-chicken-ramen-4-500x500.jpg",
     recipe:
@@ -982,4 +966,437 @@ export const recipes = [
       "Mix the paprika, curry, chimichurri, and salt to taste. Add it to boiling pasta and later add tomato extract",
     link: "https://www.instagram.com/p/CxifBVzOJGz/?next=%2F"
   },
+  {
+    id: "0p0x78",
+    title: "Pineapple Mouse",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "1/5",
+    keyWords: "Greek Yogurt, Chocolate, Whey, Pineapple",
+    ingredients: "Greek Yogurt, Chocolate Whey, Grated Chocolate, Chopped Pineapple",
+    src: "https://img.cybercook.com.br/receitas/402/mousse-gelado-de-abacaxi-e-coco-1.jpeg",
+    recipe:
+      "Chop small pieces of pineapple and place at the bottom of the container. Mix the yogurt and white chocolate whey or your favorite whey well. Pour the cream over the pineapples and mix. Add chocolate or grated coconut on top",
+    link: "https://www.instagram.com/p/C1j8pIPuakP/"
+  },
+  {
+    id: "0p0x79",
+    title: "Fruit Gelatin Gummies",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "3/5",
+    keyWords: "Strawberries, Beets, Mango, Carrots, Gelatin",
+    ingredients: "Strawberries, Beets, Mango, Carrots, Gelatin, Honey",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4feqxx11NXZnoBPattMle8xUSuORBRidv3Q&s",
+    recipe: "Blend the fruit and vegetables and strain the juice. Combine the juice with honey and sprinkle the gelatin overtop and allow to harden. Heat on stove until fully liquid. Use a dropper to carefully transfer liquid into a mold. Transfer to fridge and allow to fully set before removing and enjoying! The mold is nice to have, but you can also just use a glass container and slice the gummies into squares. You can do different flavor combinations like blueberries and beets, peaches and carrots, pineapple and carrots, green grapes and spinach, etc.",
+    link: "https://www.instagram.com/p/CwOEJ1YIvPW/"
+  },
+  {
+    id: "0p0x80",
+    title: "Gelatin Gummies",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "1/5",
+    keyWords: "Gelatin",
+    ingredients: "Diet Gelatin, Unflavored Gelatin, Water",
+    src: "https://d2mkh7ukbp9xav.cloudfront.net/recipeimage/4grxf1it-663b0-847593-beea0-8aitqbnf/9c353263-8ed3-4bfc-a925-eda4eef4508b/main/berry-smoothie-gummies.jpg",
+    recipe: "In a recipient, mix the unflavored and flavored gelatin powder. Add 100ml of water, mix and let it sit for 10 minutes. Microwave it for 15 seconds and transfer the liquid into a mold. Put it in the fridge for 15-20 minutes and it's ready.",
+    link: "https://www.instagram.com/p/CwIZrv-M5XR/"
+  },
+  {
+    id: "0p0x81",
+    title: "Vegetable Sauce Pasta",
+    category: "Savory",
+    meal: "Lunch",
+    difficulty: "2/5",
+    keyWords: "Tomatoes, Cauliflower, Carrot, Garlic, Onion, Bell Pepper, Oregano, Basil, Salt, Pepper",
+    ingredients: "4 Ripe Roma Tomatoes, 1 Cup Cauliflower, 1 Cup Carrot, 1 Head Garlic, 1/2 Onion, Bell Pepper, 1 tsp Oregano, 1 tsp Basil, Salt and Pepper to taste",
+    src: "https://elavegan.com/wp-content/uploads/2022/06/healthy-pasta-sauce-with-pappardelle-in-bowl.jpg",
+    recipe: "Roast all the vegetables at 180°C (350°F) for 30-35 minutes with olive oil, blend without adding water, and serve with your preferred pasta.",
+    link: "https://www.instagram.com/p/C2VAwMjL2z8/"
+  },
+  {
+    id: "0p0x82",
+    title: "Easy Kimchi",
+    category: "Savory",
+    meal: "Lunch",
+    difficulty: "3/5",
+    keyWords: "Napa Cabbage, Gochugaru, Garlic, Onion, Fish Sauce, Fermented",
+    ingredients: "1 Napa cabbage, Gochugaru, 1 Onion, 2 Green onions (optional), 200g Chive (optional), 200g Garlic (adjustable), 25g Ginger (optional), Fish sauce, Sugar, Salt, MSG (secret ingredient), Flour",
+    src: "https://fullofplants.com/wp-content/uploads/2022/05/how-to-make-vegan-kimchi-at-home-easy-recipe-thumb.jpg",
+    recipe: "Cut the Napa cabbage into approximately 3cm x 3cm pieces. Place the cut cabbage in a large bowl. Add a mixture of 1 cup of salt and 1 cup of water to the bowl. Let it soak for 1 hour. After 1 hour, rinse the cabbage three times with water. If the cabbage is still too salty after rinsing, soak it in water for about 30 minutes to reduce the salty taste. For the seasoning, blend 1 onion, 200g garlic (adjustable), 25g ginger (optional), 100g water, 50g sugar, 1 tablespoon MSG, and 100g fish sauce to make a vegetable paste. Mix 3 tablespoons of flour and 200g water, microwave for 30 seconds, stir, and microwave for another 30 seconds to make a flour paste. Cut green onions into 1cm pieces, and chive into 3cm pieces. Mix 200g gochugaru, vegetable paste, flour paste, green onions, and chive. Adjust the seasoning with fish sauce if it’s not salty enough. Mix the seasoning paste with the soaked cabbage. Ferment at room temperature for 3-4 days and then store it in the refrigerator.",
+    link: "https://www.instagram.com/p/C2NOy9sSWkb/"
+  },
+  {
+    id: "0p0x83",
+    title: "Noodles with Pork Belly and Shrimp",
+    category: "Savory",
+    meal: "Lunch",
+    difficulty: "3/5",
+    keyWords: "Spaghetti, Pork, Shrimp, Cabbage, Onion, Soy Sauce, Honey, Sesame Seeds",
+    ingredients: "2 Packs Noodles, 10 oz Cabbage (chopped), 10 oz Gai Lan (chopped), 1 Onion (sliced), 2/3 lb Pork Belly (sliced), 10 Shrimp (deveined and cleaned), 2 Tbsp Dark Soy Sauce, 1 Tbsp Soy Sauce, 1/2 Tbsp Oyster Sauce, 1 Tbsp Honey (or Sugar), 1/2 Tbsp Corn Starch, 1/2 cup Water, 1/2 Tbsp Sesame Seeds, 1 tsp Red Chili Flakes, 1 tsp Black Pepper",
+    src: "https://speedyrecipe.com/wp-content/uploads/2019/03/Pancit-Canton-Noodles.jpg",
+    recipe: "Prep and clean your veggies. Gently detangle your noodles and set aside. Mix the sauce ingredients in a bowl. In a pan, fry your onions until translucent. Add in the pork belly and let it brown until it renders and is golden and crispy. Add in the shrimp and cook 85% of the way. Add in the noodles and sauce, then gently toss until the sauce thickens. Season to taste and enjoy!",
+    link: "https://www.instagram.com/p/C3Gaof5vWXu/"
+  },
+  {
+    id: "0p0x84",
+    title: "Pomodoro Spaghetti",
+    category: "Savory",
+    meal: "Lunch",
+    difficulty: "2/5",
+    keyWords: "Spaghetti, Tomatoes, Basil, Garlic, Cheese, Olive Oil",
+    ingredients: "Spaghetti, 2 Cups Cherry Tomatoes, Fresh Basil, 4 Garlic Cloves, Grated Parmesan, Olive Oil, Salt",
+    src: "https://www.foodandwine.com/thmb/r6iPQLCsuv_TrL2YCHG9A320wjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/201304-xl-sauce-simmered-spaghetti-al-pomodoro-2000-b60bbe3cc6ad4b029fcc75844c33b9dd.jpg",
+    recipe: "Cook 1 cup of spaghetti, remove from burner but do not drain. In a pan, add a drizzle of olive oil and cook 4 full garlic cloves for 1 minute. Add 2 cups of cherry or baby plum tomatoes, salt, fresh basil, and half a cup of water. Stir and cover to cook for 5-10 minutes. Remove the garlic cloves, smash with a knife, and add back into the pan. Combine the cooked spaghetti with the pan of cooked tomatoes. Top with 1 cup of pasta water, olive oil, fresh basil, and freshly grated parmesan. Simmer and serve. Optionally, top with red pepper flakes and extra grated parmesan.",
+    link: "https://www.instagram.com/p/C3VX6ZcLwjh/"
+  },
+  {
+    id: "0p0x85",
+    title: "Brigadeiro Cake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "4/5",
+    keyWords: "Eggs, Oil, Chocolate Powder, Flour, Milk, Baking Powder",
+    ingredients: "2 Eggs, 1 cup of Sugar, 1/2 Cup of Oil, 1 cup of Chocolate Powder, 2 cups of Flour, 1 cup of Milk, 1 spoon of Baking Powder",
+    src: "https://cdn-productdbimages.barry-callebaut.com/sites/bc_productdb_images/files/styles/mdp_web_gm_chocac-detail/public/externals/f7537efd25f981345a3e53e9b767cd43.jpg?itok=0M0XTW2s",
+    recipe: "Mix all the ingredients in a pan and bake in a preheated oven for about 40 minutes. When ready, cut the cake into two layers. Wet the dough with milk, cover with brigadeiro, add the second layer, wet with milk and finish with brigadeiro and sprinkles",
+    link: "https://www.instagram.com/p/C3slJqZORRC/"
+  },
+  {
+    id: "0p0x86",
+    title: "Matcha Strawberry Cupcake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "3/5",
+    keyWords: "Matcha, Strawberries, Whipped Cream, Cake",
+    ingredients: "2 eggs, 1 egg yolk, 60g of sugar, Vanilla extract, 60g of plain flour, 20g of almond powder (optional), 2g of baking powder, 8g of matcha powder, 20g of melted butter, 30g of milk, 30g of whipped cream, 60g of cream cheese, 20g of sugar, 10g of condensed milk, 6 strawberries, Sugar powder",
+    src: "https://3.bp.blogspot.com/-Xr2iUstABpo/WIsHV0A5l6I/AAAAAAAADgw/zstRnwK_GBkNt0D3KwhRoRkwQSNKGjHhwCLcB/s1600/Green%2BTea%2Band%2BRaspberry%2BCupcakes-2.jpg",
+    recipe: "Preheat the oven to 180°C. In a bowl, beat 2 eggs and 1 egg yolk with 60g of sugar until light and fluffy. Add a few drops of vanilla extract. Sift together 60g of plain flour, 20g of almond powder (optional), 2g of baking powder, and 8g of matcha powder. Gradually fold the dry ingredients into the egg mixture. Add 20g of melted butter and 30g of milk, mixing gently until well combined. Pour the batter into a greased and floured cake pan. Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean. Allow the cake to cool. For the decoration, whip 30g of cream with 60g of cream cheese, 20g of sugar, and 10g of condensed milk until stiff peaks form. Slice the cooled cake in half and spread half of the cream mixture on the bottom layer. Add sliced strawberries on top, then place the top layer of the cake. Spread the remaining cream on the top . Decorate with the remaining strawberries and sprinkle with sugar powder.",
+    link: "https://www.instagram.com/p/C3uTwsVvU6g/"
+  },
+  {
+    id: "0p0x87",
+    title: "Red Juice",
+    category: "Drink",
+    meal: "Drinks",
+    difficulty: "1/5",
+    keyWords: "Beet, Carrot, Ginger, Cabbage, Lemon, Orange",
+    ingredients: "Beet, Carrot, Ginger, Cabbage, Lemon, Orange",
+    src: "https://www.receiteria.com.br/wp-content/uploads/receitas-de-suco-de-beterraba.jpg",
+    recipe: "Blend the ingredients in a blender without adding sugar. Strain the juice and serve",
+    link: "https://www.instagram.com/p/C3tJuBFLIZO/"
+  },
+  {
+    id: "0p0x88",
+    title: "Cinnamon Mug Cake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Flour, Sugar, Baking Powder, Water, Oil, Vanilla, Cinnamon, Butter",
+    ingredients: "Plain Flour, Granulated Sugar, Baking Powder, Water, Oil or Melted Butter, Vanilla Extract, Light Brown Sugar, Cinnamon",
+    src: "https://whatgreatgrandmaate.com/wp-content/uploads/2022/10/cinnamon-roll-mug-cake-sq.jpg",
+    recipe: "Mix 6 tbsp plain flour with 3 tbsp granulated sugar, 1/2 tsp baking powder, 60ml water, 40ml oil (or melted butter) and 1/2 tsp vanilla extract, whisk until its smooth. For the cinnamon swirl, mix 1/2 tbsp melted butter, 1 tbsp light brown sugar, 1/4 tsp cinnamon and mix until combined. Pour have of the cake mix on the mug and swirl half the cinnamon mix. Pour over the rest of the batter, smooth out and add the rest of the cinnamon swirl. Mix 1 tsp granulated sugar and 1/8 tsp cinnamon to sprinkle over the cake. Microwave on a medium heat for 1 minute 30 seconds stirring frequently, then let it cool fully. Watch the cake to not overflow.",
+    link: "https://www.instagram.com/p/C4OXhs-rrOi/?img_index=1"
+  },
+  {
+    id: "0p0x89",
+    title: "Passion Fruit Mouse Cup",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "1/5",
+    keyWords: "Passion Fruit, Greek Yogurt, Whey, Powdered Milk, Sweetener, Chocolate",
+    ingredients: "1 Passion Fruit Pulp, 2 tbsp Greek Yogurt, 1 scoop of Whey (or 2 tbsp of Powdered Milk), Sweetener, 20g of 70% Chocolate",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyYIqphQNeJgdAkqktYkPMfWCE9QvBDxcRq9gK1vtsMMjDFiAmk2z7qpH-op2ICl8DLQ&usqp=CAU",
+    recipe: "Mix in a cup 1 passion fruit pulp, 2 tbsp greek yogurt, 1 scoop of whey (or 2 tbsp of powdered milk) and sweetener to taste. Melt the chocolate and add it on top. Freeze it for a few minutes and enjoy!",
+    link: "https://www.instagram.com/p/C4lCx8FsQ92/"
+  },
+  {
+    id: "0p0x90",
+    title: "Mug Brownie",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Oat Flour, Eegg, Greek Yogurt, Whey, Sweetener, Chocolate, Nuts, Powdered Milk",
+    ingredients: "2 tbsp oat flour, 1 tbsp cocoa, 1 egg, 1 tbsp greek yogurt, 1/2 scoop whey, sweetener, 1 tbsp baking powder, chocolate or nuts",
+    src: "https://cdn0.tudoreceitas.com/pt/posts/6/8/0/brownie_de_caneca_11086_orig.jpg",
+    recipe: "In a container, mix the oat flour, cocoa, egg, greek yogurt, whey or powdered milk, sweetener to taste, baking powder and chocolate or nuts. Microwave for 1 minute or until the consistency you prefer",
+    link: "https://www.instagram.com/p/C4GbtWgRUQr/"
+  },
+  {
+    id: "0p0x91",
+    title: "Protein Pancake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Egg, Oat Flour, Whey, Sweetener, Baking Powder",
+    ingredients: "2 eggs, 5g cocoa powder, 20g oat flour, 1/2 scoop of whey, sweetener to taste, 1tbsp baking powder",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRu9DmORkYHidPRgXnEbJL4irzwkCjR1tawg&s",
+    recipe: "Mix the ingredients and pour the mixture into a frying pan until is ready to flip. You can have chocolate or peanut butter on top.",
+    link: "https://www.instagram.com/p/C4BDM0isCr1/"
+  },
+  {
+    id: "0p0x92",
+    title: "Fit Cheesecake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Egg, Greek Yogurt, Whey, Jam",
+    ingredients: "1 egg, 2 tbsp greek yogurt, 1 tbsp light ricotta cream, 1 scoop of vanilla whey, 1 tbsp baking powder, fruit jam",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZK883lTApIShxlgT7iMdB4EcvcDMRH-WNNw&s",
+    recipe: "In a container, mix the egg, greek yogurt, light ricotta cream, vanilla whey, sweetener (optional) and baking powder. Microwave for 1-2 minute or until the consistency you prefer. Let it cool and add jam at the top with berries",
+    link: "https://www.instagram.com/p/C3vsox7RLmf/"
+  },
+  {
+    id: "0p0x93",
+    title: "Vanilla and Strawberry Oat Cake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "3/5",
+    keyWords: "Strawberries, Oats, Almond, Vanilla, Whey, Nuts, Greek Yogurt",
+    ingredients: "6 Large Strawberries (Mashed), 4 Medjool Dates (Soaked in hot water for 5min & mashed), 2 Cups Oat Flour, 1 Cup Almond Meal, 1 Tsp Vanilla Extract, 1 Tsp Baking Powder, 3/4 Cup Milk (+ 1-2 tbsp if needed), Pinch of Salt, 1 Cup Vanilla Coconut Yogurt, 2 Scoops Vanilla Whey, 1/2 Cup Nuts (Soaked in hot water for 10 minutes and drained), 2 Tbsp Sweetener, 1 Tsp Vanilla Extract, 16 Strawberries Sliced, 1-2 Tsp Cinnamon",
+    src: "https://www.fitmittenkitchen.com/wp-content/uploads/2021/04/Strawberry-Baked-Oatmeal-Recipe-11.jpg",
+    recipe: "Preheat the oven to 175°C and line a square baking tray. Mix together the mashed strawberries and dates, oat flour, almond meal, vanilla extract, baking powder, milk and a pinch of salt for the cake. The mixture should be thick and on the stickier side. Transfer to the baking tray and bake in the oven for 20 minutes, or until a fork comes out clean. Allow to cool completely and slice in half. Process the vanilla coconut yogurt, vanilla whey, nuts, sweetener, vanilla extract until is smooth. Place one half of the cake into the bottom of a container, top with half the protein cream and half of the sliced strawberries. Repeat for the other half of ingredients. Set in the fridge for 3 hours. Garnish with cinnamon, slice and enjoy. Store in the fridge for 4-5 days.",
+    link: "https://www.instagram.com/p/C10DSTJh5zP/"
+  },
+  {
+    id: "0p0x94",
+    title: "Orange Detox Juice",
+    category: "Drink",
+    meal: "Drinks",
+    difficulty: "1/5",
+    keyWords: "Carrot, Ginger, Apple, Orange",
+    ingredients: "Carrot, Ginger, Apple, Orange",
+    src: "https://i0.wp.com/sweetiepieandcupcakes.com/wp-content/uploads/2017/01/StPattyCookiesNew105.jpg?fit=587%2C881&ssl=1",
+    recipe: "Blend the ingredients in a blender without adding sugar. Strain the juice and serve",
+    link: "https://www.instagram.com/p/C40bCBpLFqJ/"
+  },
+  {
+    id: "0p0x95",
+    title: "Protein Lemon Cake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Egg, Oat Bran, Greek Yogurt, Lemon, Whey",
+    ingredients: "1 egg, 1 tbsp oat bran, 1 tbsp greek yogurt, 1 tbsp lemon juice, 1 dessert spoon sweetener, 1 tsp baking powder, 1 scoop whey, 1 scoop powdered milk, 1 tbsp yogurt, juice of half a lemon",
+    src: "https://www.receiteria.com.br/wp-content/uploads/bolo-de-caneca-de-limao-capa.png",
+    recipe: "Mix the egg, oat bran, greek yogurt, lemon juice, sweetener, and baking powder. Microwave for 3 minutes. For the topping mix whey, powdered milk, yogurt, and lemon juice. Pour over the cake.",
+    link: "https://www.instagram.com/p/C3lf_pXtwMp/"
+  },
+  {
+    id: "0p0x96",
+    title: "Chocolate Protein Donut",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "4/5",
+    keyWords: "Chocolate, Whey, Greek Yogurt, Cocoa, Flour",
+    ingredients: "1 cup Self Rising Flour, 1 scoop Chocolate Protein Powder, 1 tbsp Unsweetened Cocoa Powder, 1/4 cup Sweetener, 1 1/2 cup Greek Yogurt, 1/3 cup Powdered Sugar, 2-3 tbsp Unsweetened Almond Milk",
+    src: "https://cheatdaydesign.com/wp-content/uploads/2021/02/Chocolate-protein-donut-holes.jpg.webp",
+    recipe: "In a bowl, mix together self rising flour, chocolate protein powder, unsweetened cocoa powder, and sweetener. With a rubber spatula, mix in Greek yogurt until well combined to form a crumbly and sticky dough. Spread flour across a flat surface or cutting board and knead the dough until no longer sticky. Separate dough into 1/2 inch pieces and roll into balls (makes roughly 14 donut holes). Add to air fryer and spray with nonstick cooking spray. Air fry at 350°F for 12-15 minutes or until golden brown (done in 2 batches). While donut holes cool, mix together glaze ingredients (powdered sugar and unsweetened almond milk) until smooth. When donut holes are done cooking, dip them in glaze on both sides. Enjoy!",
+    link: "https://www.instagram.com/p/C4OJZ1SOFe9/"
+  },
+  {
+    id: "0p0x97",
+    title: "Oat Cocoa Pancake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Oat, Egg, Cocoa, Milk",
+    ingredients: "1 egg, 2 tbsp oat bran, 2 tbsp milk, 1 tbsp cocoa powder, 1/2 tsp baking powder, sweetener to taste",
+    src: "https://blog.mundoverde.com.br/wp-content/uploads/2016/06/shutterstock_123488716.jpg",
+    recipe: "Mix all ingredients together and cook in a non-stick pan until done.",
+    link: "https://www.instagram.com/p/C42-MTAstRw/"
+  },
+  {
+    id: "0p0x98",
+    title: "Protein Chocolate Mousse",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "1/5",
+    keyWords: "Yogurt, Chocolate, Whey",
+    ingredients: "1 pot of greek yogurt, 1 bar of dark chocolate, 30g of milk powder or 1 scoop of whey protein",
+    src: "https://at-my-table.com/wp-content/uploads/2023/12/High-Protein-Chocolate-Mousse-15-of-24.jpg",
+    recipe: "Melt the chocolate in the microwave, add the yogurt, and then the milk powder/whey. Leave it in the freezer for 45 minutes or in the fridge for 2 hours, and your chocolate mousse is ready.",
+    link: "https://www.instagram.com/p/C57F8Fzuk5W/"
+  },
+  {
+    id: "0p0x99",
+    title: "Strawberry Chocolate Oats",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Oats, Whey, Chocolate, Strawberry",
+    ingredients: "40g rolled oats, 25g protein powder (optional, vanilla flavor), 8g chia seeds (optional), 10g cocoa powder, sweetener, 150ml water",
+    src: "https://beautifuleatsandthings.com/wp-content/uploads/2018/02/Decadent-Chocolate-Covered-Strawberry-Overnight-Oats.jpg",
+    recipe: "Blend all ingredients together. For the strawberry layer, blend 40g rolled oats, 25g protein powder (optional), 8g chia seeds (optional), 150g cooked strawberries, sweetener, and around 80-120ml water. Mix the stawberry layer with chopped strawberries. Layer the chocolate and strawberry creams in a small pot, finishing with melted dark chocolate. Refrigerate until set or leave longer for firmer texture.",
+    link: "https://www.instagram.com/p/C6ACEL0rmAf/"
+  },
+  {
+    id: "0p0x100",
+    title: "Snickers-Inspired Oats",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Oats, Whey, Peanut Butter, Chocolate",
+    ingredients: "40g rolled oats, 25g chocolate-flavored protein powder, pinch of salt, 10g peanut butter, 8g chia seeds (optional), 1 tbsp peanut butter, 1 tbsp coconut nectar, 15-20g dark chocolate, chopped peanuts",
+    src: "https://www.eatingwell.com/thmb/iOLAYLHA11gTxNzFhz7XxZ_XEAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Banana-Cream-Pie-Overnight-Oats-beauty-649-d3a6d9e2c3b24e49a0ddd92dcfd36ebe.jpg",
+    recipe: "Blend all ingredients together and layer with the chocolate cream (optional). Top with 1 tbsp peanut butter + 1 tbsp coconut nectar and melted chocolate with chopped peanuts. Refrigerate until set.",
+    link: "https://www.instagram.com/p/C6ACEL0rmAf/"
+  },
+  {
+    id: "0p0x101",
+    title: "Chocolate Strawberry Pancake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Egg, Greek Yogurt, Cocoa, Oat Flour, Whey, Strawberry",
+    ingredients: "1 egg, 2 tbsp greek yogurt, 1 tbsp cocoa powder, 1 tbsp oat flour, sweetener, 1/2 scoop whey, 2 tbsp powdered milk, strawberries",
+    src: "https://i0.wp.com/cookshootandshare.com/wp-content/uploads/2021/02/Strawberry_Chocolate_Pancakes_5.jpg?fit=2247%2C1500&ssl=1",
+    recipe: "In a bowl, mix all the pancake ingredients (egg, yogurt, cocoa powder, oat flour, and sweetener). Cook the mixture in a pan until both sides are golden brown. For the filling, mix the whey, powdered milk, and gradually add water until you get a smooth consistency. Add the strawberries to the filling. Assemble the pancake with the filling and enjoy!",
+    link: "https://www.instagram.com/p/C7huanruLKn/"
+  },
+  {
+    id: "0p0x102",
+    title: "Cinnamon Bread",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "1/5",
+    keyWords: "Egg, Milk, Vanilla, Cinnamon, Bread",
+    ingredients: "1 egg, 30ml milk, 1 capful of vanilla essence, cinnamon, sweetener",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZtlb2Ws0g4IFtq4mwH9QnZgmH21b7bQxKQ&s",
+    recipe: "In a bowl, mix all the ingredients above with a fork until well combined. Dip the bread slices on both sides in the mixture and cook in a greased pan over low heat. Cover until golden brown on both sides, and it's ready! You can add a topping if you want.",
+    link: "https://www.instagram.com/p/C6PUBPEOSHl/"
+  },
+  {
+    id: "0p0x103",
+    title: "Healthy Magnums",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "3/5",
+    keyWords: "Coconut Cream, Cashews, Honey, Vanilla, Cacao, Chocolate, Almonds, Milk",
+    ingredients: "1 cup coconut cream, 1 cup raw cashews (soaked), 1/2 cup honey, 1 tsp vanilla, 1/4 cup cacao powder, 1/2 tsp salt, 2 tbsp chocolate chips, 200g dark chocolate, 2 tsp coconut oil, 1/3 cup chopped almonds",
+    src: "https://bloomingnolwenn.com/wp-content/uploads/2019/11/IMG_4791-480x480.jpg",
+    recipe: "Add the coconut cream, cashews, honey, vanilla, cacao powder, and salt to a blender and blend on high until smooth. Add in the chocolate chips and pulse again until just combined. Pour the chocolate mixture into ice cream bar molds. Transfer to a freezer for 2-4 hours until completely set. Melt the dark chocolate and coconut oil together in the microwave or over the stove. Stir through the chopped almonds. Dip the ice cream bars into the melted chocolate and lay on parchment paper to set - you may need to place them back in the freezer for 15 minutes.",
+    link: "https://www.instagram.com/p/C4m9KeQJdP0/"
+  },
+  {
+    id: "0p0x104",
+    title: "Avocado Sandwich",
+    category: "Savory",
+    meal: "Snack",
+    difficulty: "1/5",
+    keyWords: "Toast, Cheese, Avocado, Egg, Bacon",
+    ingredients: "Toast, Cheese, Avocado, 2 Scrambled Eggs, Bacon, Broccoli Micro-greens",
+    src: "https://healthynibblesandbits.com/wp-content/uploads/2019/09/Kimchi-Avocado-Grilled-Cheese-FF.jpg",
+    recipe: "Toast the bread, add melted cheese with greens like parsley, green onions or broccoli micro-greens. On the other half add seasoned avocado, eggs and bacon. Fold and enjoy!",
+    link: "https://www.instagram.com/p/C7mkOlTuU4q/"
+  },
+  {
+    id: "0p0x105",
+    title: "Hot Honey Chicken",
+    category: "Savory",
+    meal: "Lunch",
+    difficulty: "2/5",
+    keyWords: "Chicken, Honey, Garlic",
+    ingredients: "400g chicken breast, 1 egg (whisked), 60g cornflakes, 3 tsp paprika, 1 tsp cayenne pepper (or to taste), salt, pepper, 4 tbsp honey, minced garlic, sriracha (or other hot sauce), ranch sauce",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopDz2vpQHoL28sleyTPHq2XOR5BiIDc2gbA&s",
+    recipe: "Cut chicken into smaller pieces. Coat in seasoning. Crush cornflakes and put into a bowl. Crack and whisk egg into another bowl. Dip the chicken in the egg and then press in the cornflakes, ensuring they stick properly. Air fry for 15 minutes. Meanwhile, mix together the sauce ingredients. Dip the cooked chicken into the hot honey sauce and serve immediately. Serve with ranch sauce.",
+    link: "https://www.instagram.com/p/C7hejLTSP3y/"
+  },
+  {
+    id: "0p0x106",
+    title: "Easy Magnums",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Bananas, Greek Yogurt, Peanut, Chocolate",
+    ingredients: "2 bananas, 150g Greek yogurt, 1-2 tbsp peanut butter, 50ml milk, 150g dark chocolate, 1 tsp coconut oil (optional)",
+    src: "https://nutriholist.com/wp-content/uploads/2021/06/Dark-Chocolate-Almond-Magnum4-1.jpg",
+    recipe: "In a blender, mix the bananas, peanut butter, Greek yogurt, and milk until smooth. Pour the mixture into lolly moulds and freeze for 3-4 hours. After freezing, melt the dark chocolate with a teaspoon of coconut oil, if using. Dip the frozen lollies into the melted chocolate until fully covered. Place the lollies on a tray lined with greaseproof paper and freeze for an additional 30 minutes.",
+    link: "https://www.instagram.com/p/C8pfAbnorbR/"
+  },
+  {
+    id: "0p0x107",
+    title: "10-Min Pookies",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Banana, Chocolate, Egg, Sugar, Flour",
+    ingredients: "1 ripe banana, 60g medium dark chocolate, 1 egg, 50g sugar, 100g flour, 1 tsp baking powder",
+    src: "https://images.squarespace-cdn.com/content/v1/5dc0d87d4b9363400fbca6cf/250baa8b-c385-417f-8cb7-60e3f7ce2a1c/homemade+famous+amose+cookies+healthy.jpg",
+    recipe: "Put all ingredients into a blender or food processor and mix until fully combined. Scoop dough into circles on a baking tray, then bake for 8 minutes at 180C/350F.",
+    link: "https://www.instagram.com/p/C8ez-AIq58S/"
+  },
+  {
+    id: "0p0x108",
+    title: "Chocolate and Oat Cake",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "2/5",
+    keyWords: "Oat Flour, Cocoa Powder, Whey Protein, Vanilla Essence",
+    ingredients: "30g oat flour, 2 dessert spoons of cocoa powder, 1 scoop of whey protein, 70ml milk, 5 drops of vanilla essence, 1 teaspoon of baking powder",
+    src: "https://i.panelinha.com.br/i1/228-bk-9194-blog-bolo-de-caneca-de-chocolate.webp",
+    recipe: "Mix all the ingredients and add 1 teaspoon of baking powder. Mix slowly and microwave for approximately 1 minute. For the topping: mix 2 tablespoons of skimmed milk powder, 100% cocoa powder to taste, and a little water until you reach the desired consistency.",
+    link: "https://www.instagram.com/p/CuF4SeoubPt/"
+  },
+  {
+    id: "0p0x109",
+    title: "Chicken Sandwich",
+    category: "Savory",
+    meal: "Snack",
+    difficulty: "1/5",
+    keyWords: "Chicken, Carrot, Lettuce, Tomato",
+    ingredients: "2 slices of bread, 1 cup of shredded and seasoned chicken, 2 tbsp of light ricotta cream, 2 tbsp of olives, 2 tbsp of corn, 2 tbsp of carrot, 2 tbsp of parsley and chives, Lettuce to taste, Tomato to taste",
+    src: "https://guiadacozinha.com.br/wp-content/uploads/2014/01/Sanduiche-natural-768x619.jpg",
+    recipe: "Mix the chicken, grated carrot, light ricotta cream, olives, corn, parsley and chives together. On the bread put the lettuce, tomato and the mix with chicken.",
+    link: "https://www.instagram.com/p/CuUTajsJrbW/"
+  },
+  {
+    id: "0p0x110",
+    title: "Protein Smash Bowl",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "1/5",
+    keyWords: "Greek Yogurt, Banana, Blueberries, Chocolate, Peanut Butter, Whey",
+    ingredients: "205g Greek yogurt, 1 banana, 70g blueberries, 30g dark chocolate, 10g peanut butter, 1 scoop protein powder",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAWLP08TQwCVZS1ZHOp3sTaLcOz3EgMuCbA&s",
+    recipe: "Mix Greek yogurt with protein powder and add banana slices and frozen blueberries. Top with peanut butter and melted dark chocolate then spread this over the top of your yogurt and pop in the fridge for 20 minutes. Remove and enjoy!",
+    link: "https://www.instagram.com/p/CylQ6-nLkIp/"
+  },
+  {
+    id: "0p0x111",
+    title: "Pajeon",
+    category: "Savory",
+    meal: "Snack",
+    difficulty: "3/5",
+    keyWords: "Green Onions, Peppers, Gochugaru, Soy Sauce, Cornstarch, Egg",
+    ingredients: "Green onions, 1 cup flour, 2 tbsp cornstarch, 1 tsp sugar, 1 tsp salt, Gochugaru, Chopped peppers, 1 beaten egg, Oil",
+    src: "https://static01.nyt.com/images/2020/05/24/dining/25apperex1/merlin_163151043_0149dfbb-1ce6-4e5f-8e3e-490370fb1aa2-articleLarge.jpg",
+    recipe: "Chop green onions. Make a batter mix using 1 cup flour, 2 tbsp cornstarch, 1 tsp sugar, 1 tsp salt, and some gochugaru. Dip the green onions into the batter. Fry in a generous amount of oil on medium high. Spread the green onions thinly across the pan like a pancake. Place chopped peppers on the pancake. Glue them onto the pancake using a beaten, salted egg, or just more pancake batter. Flip when the bottom is crispy. Enjoy with sauce - soy sauce, peppers, sugar, rice vinegar, gochugaru, sesame seeds.",
+    link: "https://www.instagram.com/p/C0nXZnmSjRi/"
+  },
+  {
+    id: "0p0x112",
+    title: "Roasted Chicken",
+    category: "Savory",
+    meal: "Lunch",
+    difficulty: "2/5",
+    keyWords: "Chicken, Onions, Potatoes, Paprika, Tomato",
+    ingredients: "2 onions, 4 potatoes, 12 chicken drumsticks, salt, pepper, 20 ml olive oil, 10 ml whole milk, 1 tsp salt, 1 tsp black pepper, 3 tsp sweet paprika, 2 tsp tomato paste",
+    src: "https://d14iv1hjmfkv57.cloudfront.net/assets/recipes/skillet-roasted-chicken-and-potatoes/_600x600_crop_center-center_61_line/CHICKEN-SKILLET_551.jpg?v=1708577571",
+    recipe: "Place the cut onions and potatoes at the bottom of the pan and the chicken on top. Mix the salt, pepper, olive oil, milk, salt, black pepper, sweet paprika, tomato paste and pour over the chicken. Leave in the oven until roasted",
+    link: "https://www.instagram.com/p/C1ayBdWuPfn/"
+  },
+  {
+    id: "0p0x113",
+    title: "Chocolate Bites",
+    category: "Sweet",
+    meal: "Desserts",
+    difficulty: "1/5",
+    keyWords: "Strawberry, Chocolate, Peanut Butter, Salt",
+    ingredients: "Strawberries, Dark chocolate, Peanut butter, Salt",
+    src: "https://i1.wp.com/basicswithbails.com/wp-content/uploads/2024/01/fresh-strawberries-with-peanut-butter.jpg",
+    recipe: "Slice strawberries and place them on parchment paper. Spread peanut butter and melted chocolate on top. Add a little pinch of flaky salt and freeze for 30 minutes.",
+    link: "https://www.instagram.com/p/C2Uw2jvNA5z/"
+  }
 ];

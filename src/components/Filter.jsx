@@ -14,10 +14,10 @@ export const Filter = () => {
   const INGREDIENTS = [
     "Alcohol", "Avocado", "Bacon", "Banana", "Biscuit", "Bread", "Broccoli", "Carrot", "Cheese", "Chicken",
     "Chocolate", "Cinnamon", "Coffee", "Condensed Milk", "Corn Rice", "Cornflake", "Cornflour", "Cucumber",
-    "Egg", "Flour", "Grape", "Greek Yoghurt", "Ham", "Kiwi", "Lettuce", "Meat", "Milk", "Milk Powder",
+    "Egg", "Flour", "Grape", "Greek Yogurt", "Gelatin", "Ham", "Kiwi", "Lettuce", "Meat", "Milk", "Milk Powder",
     "Mustard", "Noodles", "Oat", "Peanut Butter", "Pepperoni", "Potato", "Rice", "Salmon", "Sausage",
     "Shrimp", "Sour Cream", "Soy Sauce", "Spaghetti", "Strawberry", "Tomato", "Tomato Sauce", "Tortilla",
-    "Whipped Cream"
+    "Whey", "Whipped Cream"
   ];
 
   const dispatch = useDispatch();
@@ -111,7 +111,7 @@ export const Filter = () => {
             <p className="text-start mt-0 ml-2.5 text-gray-500 text-sm mb-1">
               {
                 filterState.ingredients.length > 0
-                  ? (filterState.ingredients.length == 1
+                  ? (filterState.ingredients.length === 1
                       ? filterState.ingredients[0]
                       : filterState.ingredients[0] + ", " + filterState.ingredients[1] + "..."
                     )
